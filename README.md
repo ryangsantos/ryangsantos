@@ -3,7 +3,7 @@
 ### Olá!!! sou Ryan gomes dos santos 
 
 - 🧠 Estudante do Senac (Técnico em Informática)
-- 📖 Estudando Redes e Python 
+- 📖 Estudando Redes, javaScript
 - 🖥 Técnico em hardware 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryangsantos&show_icons=true&theme=radical)
