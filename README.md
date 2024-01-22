@@ -5,9 +5,7 @@
 - 🧠 Estudante do Senac (Técnico em Informática)
 - 📖 Estudando Redes, javaScript, HTML5 E CSS3
 - 🖥 Técnico em hardware (Pelo SENAC)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryangsantos&show_icons=true&theme=radical)
-
+  
  <div>
    <a href="https://github.com/ryangsantos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryangsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
